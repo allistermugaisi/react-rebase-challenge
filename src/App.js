@@ -1,9 +1,6 @@
 import './App.css';
-<<<<<<< HEAD
 import BiologyToday from './components/biologyToday'
-=======
 import AutoReview from './components/autoReview'
->>>>>>> feat: add Auto Review article
 
 function App() {
   return (
@@ -14,11 +11,8 @@ function App() {
           My really cool blog site
         </p>
       </header>
-<<<<<<< HEAD
       <BiologyToday/>
-=======
       <AutoReview/>
->>>>>>> feat: add Auto Review article
     </div>
   );
 }
